@@ -1,0 +1,155 @@
+
+
+.fonttitulo{
+    font-family: 'Sigmar One', cursive;
+    font-size: 1.8rem;
+    margin: 0rem;
+    text-align: center;
+}
+
+
+
+/* HEADER */
+
+
+
+.fonttitulocard{
+    font-family: 'Macondo', cursive;
+}
+
+.card, .colorContacto{
+    background-color: rgb(253, 226, 228, 100%);
+    
+}
+
+.colorBotonEventos{
+    color: white;
+    font-weight: bolder;
+    border-color: #D90368 !important;
+}
+.colorBotonEventos:hover{
+    background-color: #D90368;
+}
+
+.bordeBotonNav{
+    border-color: #D90368 !important;
+}
+.bordeBotonNav:hover{
+    background-color: #D90368;
+}
+
+.border, .rounded{
+    border: 3px outset #D90368 !important;
+}
+
+
+main{
+    min-height: 80vh;
+}
+
+.bgtitulo{
+    background-color: #b1a7a6;
+    border-bottom: 8px ridge #b1a7a6;
+}
+/* cards */
+.botonvermas{
+    background-color: #faf3dd;
+    border: 6px solid #b1a7a6;
+    border-radius: 7rem 7rem 4rem 4rem;
+    padding: .5rem;
+    padding-bottom: 0.2rem;
+    font-family: 'Rock Salt', cursive;
+    font-weight: bold;
+}
+.widthCard{
+    width: 18rem;
+}
+
+.card{
+    border: 6px solid #b1a7a6;
+    border-radius: 5rem 1rem 5rem 5rem;
+    
+}
+
+.bordeimagenes img{
+    border-radius: 4rem 1rem 4rem 1rem;
+}
+.loguito{
+    width: 1.5rem;
+    transform: translateY(-1rem) translateX(-8.8rem) rotate(0.98turn);
+    height: 0;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    
+}
+
+.loguito img{
+    width: 100%;
+}
+
+
+/* Contact */
+.colorSubmit{
+    background-color: #D90368 !important;
+    color: white;
+    border: 3px solid #b1a7a6;
+}
+
+.imgfrase{
+    width: 80%;
+}
+
+.imgfrase img{
+    width: 80%;
+}
+
+
+/* Stats */
+
+.table{
+    min-width: 40rem ;
+}
+
+.bordetabla{
+border-right: 4px ridge #D90368;
+border-bottom: 4px ridge #D90368;
+}
+
+.bordethead{
+border-bottom: 4px ridge #D90368;
+}
+
+.anchotabla{
+    width: 39%;
+}
+
+/* FOOTER */
+footer{
+    height: 10vh;
+}
+
+
+/* DETAILS */
+
+.imgdetail{
+    border-radius: .5rem .5rem 1rem 1rem;
+    min-width: 16rem;
+    height: 80%;
+}
+
+.titulodetails{ 
+    font-family: 'Macondo', cursive;
+}
+
+#containerDetails{
+    border-radius: .5rem .5rem .5rem 1rem;
+}
+
+
+
+
+
+
+
+
+
